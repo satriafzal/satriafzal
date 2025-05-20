@@ -19,9 +19,12 @@ Here are some ideas to get you started:
 ##### 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,go,java,bootstrap)](https://skillicons.dev)
 
+##### 🛠 Tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,windows,discord&theme=light)](https://skillicons.dev)
+
+
 ##### 📱 Connect with me
-![https://www.instagram.com/satria_afzal?igsh=YmxyNWk2M2podDI3](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@catiulll?_t=ZS-8wSMa8weuW7&_r=1](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://www.linkedin.com/in/satria-afzal-zaydan-64a190308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://github.com/satriafzal](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![https://x.com/SatriaAfzal?t=zkCt18imQp4EhqLGo7Lk-g&s=09](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,twitter,github&theme=light)](https://skillicons.dev)
 
 - 😄 Pronouns: **He/Him**
 - 💻 I’m currently **learning Python,Java,JS,Go**
