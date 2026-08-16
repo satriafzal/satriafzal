@@ -1,4 +1,4 @@
-## Hello I'm Satria afzal zaydan, and i'm Informatics Engineering student 👋
+## Hello I'm Satria afzal zaydan, and i'm Informatics Engineering student
 ![satriafzal](img/github-header-banner2.png)
 
 
